@@ -1,9 +1,12 @@
 # wow-classic-macros
 
-short description of what it does:
 
-picture of how it looks for Party
-picture of how it looks for whisper
+## Request windfury macro
+A macro that gives feedback to your shaman. Send a helpful message to your grouped shaman either in whisper or party chat when windfury falls off. Macro only fires when grouped with a shaman that is alive and in rage.
+
+<img src="https://github.com/TimAndreJacobsen/wow-classic-macros/raw/master/assets/partychat.png" alt="picture of how it looks for party" width="350" height="250">
+<img src="https://github.com/TimAndreJacobsen/wow-classic-macros/blob/master/assets/whisper.png" alt="picture of how it looks for whisper" width="350" height="250">
+
 
 installation guide:
 how to install supermacro
