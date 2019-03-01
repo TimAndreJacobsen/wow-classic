@@ -6,6 +6,7 @@ A macro that gives feedback to your shaman. Send a helpful message to your group
 
 ### Example of party message
 <img src="https://github.com/TimAndreJacobsen/wow-classic-macros/raw/master/assets/partychat.png" alt="picture of chat window with party macro">
+
 ### Example of whisper message
 <img src="https://github.com/TimAndreJacobsen/wow-classic-macros/blob/master/assets/whisper.png" alt="picture of chat window with whisper macro">
 
@@ -24,5 +25,8 @@ Make sure the add-on is enabled on the character selection screen.
 In-game open the macro panel by clicking esc and then click supermacro.
 Copy the code from WindfuryParty or WindfuryWhisper and paste it into the right window.
 Then call the function from the left window with:
+
 /run WindfuryParty()
-/run WindfuryWhisper()
+
+<img src="https://github.com/TimAndreJacobsen/wow-classic-macros/blob/master/assets/macro-pane.png" alt="picture of macro pane">
+
