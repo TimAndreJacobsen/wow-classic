@@ -3,7 +3,7 @@ Collection of important data and knowledge in preparation of the upcoming classi
 
 Currently based off data collected on undocumented servers. Long term plans is to keep the information updated with data from official servers once they go live.
 
-## [.lua Macros](https://github.com/TimAndreJacobsen/wow-classic/tree/master/macros)
+## [.lua Macros](https://github.com/TimAndreJacobsen/wow-classic/tree/master/pserver-macros#wow-classic-macros)
   - Windfury check and request
   - Battle shout check and request
   - Heal macro auto-cancels on certain health threshold
